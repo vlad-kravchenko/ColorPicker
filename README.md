@@ -1,2 +1,1 @@
-# ColorPicker
-Simple color picker
+Три Slider-а (RGB), Rectangle для отрисовки цвета и Button для получения его HEX-кода (плюс копирование в буфер обмена).
